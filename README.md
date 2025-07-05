@@ -27,13 +27,13 @@
         alt = "GitHub Stats"
         height = "200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Peter0010alt&show_icons=true&theme=gruvbo&include_all_commits=true" 
+        src="https://github-readme-stats.vercel.app/api?username=Peter0010alt&show_icons=true&theme=swift&include_all_commits=true" 
     />
     <img
         align="left"
         alt = "GitHub Stats"
         height = "200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter0010alt&show_icons=true&theme=gruvbo&include_all_commits=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter0010alt&show_icons=true&theme=swift&include_all_commits=true" 
     />
 </p>
