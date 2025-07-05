@@ -37,14 +37,3 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter0010alt&show_icons=true&theme=swift&include_all_commits=true" 
     />
 </p>
-
-<br/>
-<br/>
-
-### 🏆 Best Projects
-
-<p>
-   <img
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Peter0010alt&repo=corrida-beneficente&theme=midnight-purple)
-    />
-</p>
